@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/dasom0801/ts-todo#readme",
   "dependencies": {
+    "tslint-config-airbnb": "^5.11.2",
     "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.3"
   }
 }
