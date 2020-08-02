@@ -1,0 +1,23 @@
+{
+  "name": "ts-todo",
+  "version": "1.0.0",
+  "description": "todo list for typescript study",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasom0801/ts-todo.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "DasomKim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasom0801/ts-todo/issues"
+  },
+  "homepage": "https://github.com/dasom0801/ts-todo#readme",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
